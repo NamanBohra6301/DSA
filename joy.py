@@ -9,7 +9,7 @@ for i in range(n):
 
         for element in L:
             print(element,end=('\t'))
-        print()
+        print();
 # L1=['harry potter','matrix','spiderman','avengers','john wick']
 # L2=['drishyam','spiderman','bahubali','dhoom','race','matrix']
 # L=[]
